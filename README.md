@@ -11,9 +11,6 @@ I have converted my school's website into a fully functional Android application
 - **Loading Indicator**: Included a loading indicator to show progress when pages are being loaded.
 - **Offline Handling**: Basic error handling for scenarios when the user is offline.
 
-## Screenshots
-
-![App Screenshot](path-to-your-screenshot.png)
 
 ## Installation
 
